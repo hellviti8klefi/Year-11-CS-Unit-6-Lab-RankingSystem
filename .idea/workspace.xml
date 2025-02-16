@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="b15baaa4-8982-4513-94f0-67ea4e391bbb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Year-11-CS-Unit-6-Lab-RankingSystem.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Year-11-CS-Unit-6-Lab-RankingSystem.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UserTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UserTester.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,17 +17,32 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "hellviti8klefi"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/hellviti8klefi/Year-11-CS-Unit-6-Lab-RankingSystem",
+    "accountId": "464478c0-6b2a-41d8-881a-c70ee45ac080"
+  }
+}]]></component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2L4er5Joex32nts3H0hdtNR9CYd" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -34,11 +52,16 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Downloaded.Files.Path.Enabled": "false",
+    "JUnit.UserTester,testActivityRankOutOfBoundsLessThanNegativeEight and 2 more.executor": "Run",
+    "JUnit.UserTester.executor": "Run",
     "Repository.Attach.Annotations": "false",
     "Repository.Attach.JavaDocs": "false",
     "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true"
   }
 }]]></component>
   <component name="RunManager" selected="JUnit.UserTester">
@@ -71,6 +94,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UserTester,testActivityRankOutOfBoundsLessThanNegativeEight and 2 more" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Year-11-CS-Unit-6-Lab-RankingSystem" />
+      <option name="TEST_OBJECT" value="pattern" />
+      <patterns>
+        <pattern testClass="UserTester,testActivityRankOutOfBoundsLessThanNegativeEight" />
+        <pattern testClass="UserTester,testActivityRankOutOfBoundsEqualToZero" />
+        <pattern testClass="UserTester,testActivityRankOutOfBoundsGreaterThanEight" />
+      </patterns>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="UserTester.testToString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Year-11-CS-Unit-6-Lab-RankingSystem" />
       <option name="PACKAGE_NAME" value="" />
@@ -81,23 +116,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserTester.testVariousRankUpActivity" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Year-11-CS-Unit-6-Lab-RankingSystem" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="UserTester" />
-      <option name="METHOD_NAME" value="testVariousRankUpActivity" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.UserTester" />
+        <item itemvalue="JUnit.UserTester,testActivityRankOutOfBoundsLessThanNegativeEight and 2 more" />
         <item itemvalue="JUnit.UserTester.testToString" />
         <item itemvalue="JUnit.UserTester.testActivityRankOutOfBounds" />
         <item itemvalue="JUnit.UserTester.test" />
-        <item itemvalue="JUnit.UserTester.testVariousRankUpActivity" />
       </list>
     </recent_temporary>
   </component>
